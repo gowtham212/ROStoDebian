@@ -1,0 +1,13 @@
+Package: ros-melodic-lugo-dbgsym
+Package-Type: ddeb
+Source: ros-melodic-lugo
+Version: 0.0.0-0bionic
+Auto-Built-Package: debug-symbols
+Architecture: amd64
+Maintainer: fldec <fldec@todo.todo>
+Installed-Size: 349
+Depends: ros-melodic-lugo (= 0.0.0-0bionic)
+Section: debug
+Priority: optional
+Description: debug symbols for ros-melodic-lugo
+Build-Ids: abe0632a79f771bcf501817b42b5751449e5034b df836e92c86720aa9f25a83442568e5d3f2a5234

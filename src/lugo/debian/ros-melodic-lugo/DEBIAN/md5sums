@@ -1,0 +1,16 @@
+6ff6810781c0aa9ca987259e383e1deb  opt/ros/melodic/lib/lugo/listener
+ac7c3e6a402b494cbf555fc4e93d8667  opt/ros/melodic/lib/lugo/listener1.py
+5a91b858620033a6d291e968a6529831  opt/ros/melodic/lib/lugo/talker
+69f29dbc815b0029186ce8aea0eb2caa  opt/ros/melodic/lib/lugo/talker1.py
+51eca959e7fea4cc54bd8ebcac4af84b  opt/ros/melodic/lib/pkgconfig/lugo.pc
+d41d8cd98f00b204e9800998ecf8427e  opt/ros/melodic/lib/python2.7/dist-packages/lugo/__init__.py
+d1d98251fabcb4fd26b94dfd30e4a5de  opt/ros/melodic/lib/python2.7/dist-packages/lugo/__init__.pyc
+25f4aa732191bad1720987f209c4fd25  opt/ros/melodic/share/lugo/cmake/lugo-msg-extras.cmake
+65b2e06b4bb1bf5190662f698233a28e  opt/ros/melodic/share/lugo/cmake/lugo-msg-paths.cmake
+98d8242eaa3c1bba5b1414295f7d5039  opt/ros/melodic/share/lugo/cmake/lugoConfig-version.cmake
+b5ae03021c80938f28bf040bb28742b4  opt/ros/melodic/share/lugo/cmake/lugoConfig.cmake
+7ed1d2dd9fa184e3ea5885f77adedc50  opt/ros/melodic/share/lugo/launch/twolaunch.launch
+545c6e8bd84e1e135ea3d006427fa9c3  opt/ros/melodic/share/lugo/package.xml
+f15ef4602ab1be6483997f00b9dbd173  opt/ros/melodic/share/roseus/ros/lugo/manifest.l
+2a2dbff210162b185b9ff439d5827f50  usr/share/doc/ros-melodic-lugo/changelog.Debian.gz
+d17cad4453962871a9e86ba4687a3f96  usr/share/doc/ros-melodic-lugo/copyright

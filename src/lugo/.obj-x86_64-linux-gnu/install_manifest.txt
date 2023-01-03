@@ -1,0 +1,14 @@
+/opt/ros/melodic/share/lugo/cmake/lugo-msg-paths.cmake
+/opt/ros/melodic/share/roseus/ros/lugo/manifest.l
+/opt/ros/melodic/lib/python2.7/dist-packages/lugo/__init__.py
+/opt/ros/melodic/lib/python2.7/dist-packages/lugo/__init__.pyc
+/opt/ros/melodic/lib/pkgconfig/lugo.pc
+/opt/ros/melodic/share/lugo/cmake/lugo-msg-extras.cmake
+/opt/ros/melodic/share/lugo/cmake/lugoConfig.cmake
+/opt/ros/melodic/share/lugo/cmake/lugoConfig-version.cmake
+/opt/ros/melodic/share/lugo/package.xml
+/opt/ros/melodic/lib/lugo/talker
+/opt/ros/melodic/lib/lugo/listener
+/opt/ros/melodic/lib/lugo/listener1.py
+/opt/ros/melodic/lib/lugo/talker1.py
+/opt/ros/melodic/share/lugo/launch/twolaunch.launch
